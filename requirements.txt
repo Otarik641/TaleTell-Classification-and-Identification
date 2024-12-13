@@ -2,5 +2,8 @@ streamlit
 torch
 torchvision
 pandas
+pillow
 matplotlib
 ultralytics
+opencv-contrib-python
+opencv-python
