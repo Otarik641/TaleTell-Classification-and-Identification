@@ -38,9 +38,9 @@ def predict(image):
     return image_with_boxes, bbox_info
 
 # Streamlit app setup
-st.set_page_config(page_title="Telltale Image Identification", layout="wide")
+st.set_page_config(page_title="Telltale Assist", layout="wide")
 st.markdown("<h1 style='text-align: center; margin-top: 0;'>Telltale Image Identification</h1>", unsafe_allow_html=True)
-st.markdown("<p style='text-align: center;'>Upload an image or capture one using your camera to identify telltale signs, get predicted classes, and detailed definitions.</p>", unsafe_allow_html=True)
+st.markdown("<p style='text-align: center;'>*Your Partner in Vehicle Health and Safety.*</p>", unsafe_allow_html=True)
 
 # File uploader or camera input
 image_source = st.radio("Select Image Source:", ("Upload Image", "Capture from Camera"), horizontal=True)
@@ -67,5 +67,5 @@ if 'image' in locals():
         st.image(pred_image, caption="Predicted Image with Bounding Boxes", use_container_width=True)
 
     with col2:
-        st.markdown("## Definition of Predicted Classes")
+        st.markdown("#### Telltale Alerts and Corrective Actions")
         st.markdown(bbox_info)
