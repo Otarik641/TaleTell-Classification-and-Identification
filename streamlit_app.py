@@ -39,7 +39,7 @@ def predict(image):
 
 # Streamlit app setup
 st.set_page_config(page_title="Telltale Assist", layout="wide")
-st.markdown("<h1 style='text-align: center; margin-top: 0;'>Telltale Image Identification</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center; margin-top: 0;'>Telltale Assist</h1>", unsafe_allow_html=True)
 st.markdown("<p style='text-align: center;'>*Your Partner in Vehicle Health and Safety.*</p>", unsafe_allow_html=True)
 
 # File uploader or camera input
