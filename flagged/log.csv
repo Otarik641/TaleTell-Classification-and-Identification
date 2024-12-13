@@ -1,0 +1,12 @@
+Upload an Image,Predicted Image with Bounding Boxes,Definition of Predicted Classes,flag,username,timestamp
+flagged\Upload an Image\d4813dedaafc970ff7ca\20241014_051956714_iOS_01.jpg,flagged\Predicted Image with Bounding Boxes\52b286c447e73ddf6fd8\image.webp,"'- **Driver Seat Belt Indicator**: Indicates whether the driver's seat belt is fastened.
+
+         Root cause: The driver's seat belt might not be fastened.
+         Possible Fix: Fasten your seat belt to ensure safety. 
+
+
+
+- **Airbag status**: Indicates the airbag system's health at ignition ON and during operation.
+
+         Root cause: The airbag system might not be working correctly.
+         Possible Fix: Visit a service center to get the airbag system checked. ",,,2024-12-12 16:36:58.731065

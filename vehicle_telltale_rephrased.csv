@@ -1,0 +1,34 @@
+Class_name,Class_definition,Root_cause,Possible_fix
+Service Indicator,"Indicates failure in Power Train Sensors & Actuators. Amber for less severe, Red for high severity.",Your car might have an issue with one of its essential engine sensors or components.,Get your car inspected at the nearest service center as soon as possible.
+Immobilizer,Activates when the system disables vehicle start due to key authentication failure.,The key used might not be recognized by the car's system.,Use the original key or have the system checked at the service center.
+LV Battery charging,Indicates the battery is not charging while the vehicle is running.,"Your car's battery might not be receiving a charge, which could affect its functioning.",Switch off extra electronics and head to a service center immediately.
+Airbag status,Indicates the airbag system's health at ignition ON and during operation.,The airbag system might not be working correctly.,Visit a service center to get the airbag system checked.
+Park Brake / Brake Fluid Low / EBD malfunction,"Alerts about low brake fluid, applied parking brake, or EBD fault.",Your car's brakes might need more fluid or there might be an issue with the braking system.,"Check the brake fluid level, refill if needed, or consult a service center."
+EPAS,Electric Power-Assisted Steering system fault.,The steering might be harder to use due to an issue with the power assistance.,"Stop the car, let it rest, and visit a service center if the issue continues."
+Driver Seat Belt Indicator,Indicates whether the driver's seat belt is fastened.,The driver's seat belt might not be fastened.,Fasten your seat belt to ensure safety.
+Key Not Detected,Vehicle does not detect the valid smart key inside.,The car can't find the key or the key's battery might be dead.,Ensure the key is inside the car and its battery is working.
+Press Brake Pedal to Start vehicle,Brake pedal needs to be pressed to start the vehicle.,"The brake pedal hasn't been pressed, which is required to start the car.",Press the brake pedal to start the vehicle.
+ABS Indicator,Indicates malfunction in the Anti-lock Braking System.,"Your car's ABS might not be working, which could affect braking safety.",Visit a service center to get the ABS system checked.
+Speed limit warning indicator,Warns when vehicle speed exceeds predefined limits.,You are driving faster than the safe speed limit.,Slow down to a safer speed.
+TPMS,Tire pressure or temperature issue detected.,"One or more tires might have low or high pressure, or there might be a sensor issue.","Check and adjust the tire pressure; if the warning continues, visit a service center."
+HHC warning lamp,Hill Hold Control system fault.,The hill start feature might not be working correctly.,Visit a service center to have it checked.
+HDC Warning lamp,Hill Descent Control system fault.,The hill descent feature might not be functioning.,Visit a service center to get the issue resolved.
+HV Critical Alert,High Voltage system critical issue.,A serious issue has been detected in the car's electric system.,Stop the car immediately and contact a service center.
+Charging Fail Indicator,Vehicle is not charging despite being connected.,There might be a problem with the charger or connection.,Check the charging connections or consult a service center.
+Charger Connected,Indicates charger is connected and ready to charge.,Normal operation.,No action needed.
+Motor High Temperature,Indicates motor is overheating.,The motor might be getting too hot due to heavy use.,"Park the car, let it cool down, and consult a service center if needed."
+Battery High Temperature,Indicates battery is overheating.,"The battery might be too hot, possibly due to overuse.","Let the battery cool down. If the issue persists, visit a service center."
+Limp Home Mode,Vehicle is in reduced performance mode.,The car has reduced its performance to prevent damage.,Drive slowly and carefully to the nearest service center.
+High Voltage (HV) Alert,Battery voltage is dangerously high.,The car's battery voltage might be at unsafe levels.,Stop the car immediately and contact a service center.
+Electronic Stability Control (ESC),ESC system fault detected.,The car's stability control might not be functioning.,Visit a service center to get it checked.
+Co-Driver Seat Belt Indicator,Indicates co-passenger's seat belt is not fastened.,The front passenger's seat belt is not fastened.,Ensure the front passenger fastens their seat belt.
+Zero Charge/ Low Charge,Battery charge is critically low.,The battery charge level is very low.,Recharge the battery as soon as possible.
+ACC,Vehicle is in accessory mode.,"The car is in accessory mode, allowing use of non-driving features.",No action needed unless driving is intended.
+Malfunction Indication Lamp (MIL),Engine-related fault affecting emissions.,There might be an issue with the car's engine or emissions system.,Visit a service center to get it checked.
+Low Oil Pressure indicator,Low engine oil pressure detected.,The engine might not be getting enough oil.,Check and top up engine oil. Visit a service center if the issue persists.
+AIB Warning,Advanced Intelligent Braking system fault.,The braking system might not be functioning as expected.,Visit a service center for inspection.
+Check Engine Lamp,Engine management system fault detected.,The engine system might not be functioning properly.,Visit a service center as soon as possible.
+ESP OFF Indicator,Electronic Stability Program is turned off.,The stability program is either off or has an issue.,"If this was not intentional, visit a service center to check."
+AMT Fault / DCA Fault,Fault in the Automated Manual Transmission system.,The car's automatic gear system might not be working.,Visit a service center to fix the issue.
+High Coolant Temperature,Indicates the engine is overheating.,"The engine temperature is too high, possibly due to low coolant.","Stop the car, let it cool, and check coolant levels. Visit a service center if needed."
+Charging Indicator,Indicates the vehicle is being charged.,Normal operation.,No action needed.
