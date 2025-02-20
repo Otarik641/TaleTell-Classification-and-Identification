@@ -7,3 +7,5 @@ matplotlib==3.9.4
 ultralytics==8.3.49
 opencv-contrib-python==4.11.0.86
 opencv-python-headless==4.11.0.86
+libgl1-mesa-glx
+libglib2.0-0
