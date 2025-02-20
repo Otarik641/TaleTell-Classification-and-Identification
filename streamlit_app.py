@@ -5,7 +5,7 @@ import pandas as pd
 import io
 
 # Load the model
-model_path = "model/telltale_model.pt"  # Path to the YOLO model trained on tale-tell images
+model_path = "model/telltale_model_v02.pt"  # Path to the YOLO model trained on tale-tell images
 model = YOLO(model_path)
 
 # Load telltale descriptions

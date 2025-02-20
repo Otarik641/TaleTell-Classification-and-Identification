@@ -7,7 +7,7 @@ from matplotlib import patches
 from io import BytesIO
 
 # Load the model
-model_path = "model/telltale_model.pt"  # model's path
+model_path = "model/telltale_model_v02.pt"  # model's path
 model = YOLO(model_path)
 
 # Class definitions (update with your classes and definitions)
