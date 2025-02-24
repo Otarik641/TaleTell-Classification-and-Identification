@@ -5,6 +5,6 @@ pandas
 pillow
 matplotlib
 ultralytics==8.3.33
-opencv-contrib-python==4.11.0.86
-opencv-python-headless==4.11.0.86
+opencv-contrib-python==4.9.0.80
+opencv-python-headless==4.9.0.80
 
