@@ -4,7 +4,7 @@ torchvision
 pandas
 pillow
 matplotlib
-ultralytics==8.3.78
+ultralytics==8.3.49
 opencv-contrib-python
 opencv-python-headless
 
